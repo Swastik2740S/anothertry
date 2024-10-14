@@ -18,7 +18,7 @@ import MyTokens from './Components/MyTokens.jsx'
 import 'remixicon/fonts/remixicon.css';
 
 
-export const backendUrl = "https://vercel-c2yr.vercel.app/?vercelToolbarCode=6A_fhd5qcQkUdAL";
+export const backendUrl = "https://render-nc8a.onrender.com";
 
 
 function App() {
